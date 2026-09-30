@@ -19,7 +19,4 @@ Got my hands on the Netflix titles dataset to see what's actually happening in t
 - Content additions spiked heavily after 2015, showing Netflix's shift toward aggressive library expansion.
 - TV-MA and TV-14 are the most frequent rating categories across the platform.
 
-## How to Run
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/Mohamedelsafti/Netflix-Movies-And-TV-Shows-Analysis.git](https://github.com/Mohamedelsafti/Netflix-Movies-And-TV-Shows-Analysis.git)
+
